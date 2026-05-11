@@ -25,13 +25,17 @@ Kafelek kalendarza w sekcji Aktualności wyświetla datę **4 maja** (poniedzia�
 | Aktualny stan | Oczekiwany stan |
 |---------------|-----------------|
 | Domyślna strona Next.js — biała, po angielsku: „This page could not be found." | Brandowana strona 404 z nagłówkiem, nawigacją i linkiem powrotu |
-
-![Strona 404 — domyślna Next.js](screenshoots/404-brak-strony.png)
-
-![Figma 404](screenshoots/Figma-404.png)
+| ![Strona 404 — domyślna Next.js](screenshoots/404-brak-strony.png)| ![Figma 404](screenshoots/Figma-404.png)|
 
 
 ---
+### 3. `/partnerzy`, `/wesprzyj` - brak paddingu ikona serca/dłoni przylega bezpośrednio do stopki 
+
+| Aktualny stan | Oczekiwany stan |
+|---------------|-----------------|
+| Ikona serca z dłoni przylega bezpośrednio do stopki | Jest odstęp jak na figmie |
+|![Wesprzyj](screenshoots/wesprzyj.png)  | ![Figma](screenshoots/Figma-ikonaserca.png) |
 
 
-
+---
+### 4.
