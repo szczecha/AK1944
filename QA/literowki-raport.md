@@ -5,15 +5,14 @@ Data sprawdzenia: 2026-05-11
 
 ## Znalezione błędy
 
-### 1. `/historia` — strona główna działu Historia
+### 1. `/historia` — Podwójne „nie" w zdaniu
 
 ![Historia](screenshoots/historia.png)
 
 | Błąd | Powinno być |
 |------|-------------|
-| `nic nie **nie** wymaże z kart dziejów` | `nic **nie** wymaże z kart dziejów` |
+| nic nie **nie** wymaże z kart dziejów | nic nie wymaże z kart dziejów |
 
-Podwójne „nie" w zdaniu: *„Oto historia jednostki, której nic nie nie wymaże z kart dziejów."*
 
 ---
 
@@ -21,11 +20,11 @@ Podwójne „nie" w zdaniu: *„Oto historia jednostki, której nic nie nie wyma
 
 | Błąd | Powinno być |
 |------|-------------|
-| `w osłabienu realizować działania` | `w osłabieniu realizować działania` |
-| `3. Dywizjonu **Aryterii** Konnej` | `3. Dywizjonu **Artylerii** Konnej` |
-| `Kolejny **odddział** skierowany` | `Kolejny **oddział** skierowany` |
-| `spodowowało duże straty` | `spowodowało duże straty` |
-| `Pod **niebecność** dowódcy` | `Pod **nieobecność** dowódcy` |
+| w osłabienu realizować działania | w **osłabieniu** realizować działania |
+| 3. Dywizjonu **Aryterii** Konnej | 3. Dywizjonu **Artylerii** Konnej |
+| Kolejny **odddział** skierowany | Kolejny **oddział** skierowany |
+| **spodowowało** duże straty | **spowodowało** duże straty` |
+| Pod **niebecność** dowódcy | Pod **nieobecność** dowódcy` |
 
 ![osłabieniu](screenshoots/historia-strzelcy-osłabienu.png)
 ![Artylerii](screenshoots/aryterii.png)
@@ -40,8 +39,8 @@ Podwójne „nie" w zdaniu: *„Oto historia jednostki, której nic nie nie wyma
 
 | Błąd | Powinno być |
 |------|-------------|
-| `**Obwod** SZP - ZWZ - AK Dębica` | `**Obwód** SZP-ZWZ-AK Dębica` |
-| `„Zapalnik", Zawilec", „66"` | `„Zapalnik", **„**Zawilec", „66"` — brakuje otwierającego cudzysłowu przed „Zawilec" |
+| **Obwod** SZP - ZWZ - AK Dębica | **Obwód** SZP-ZWZ-AK Dębica |
+| „Zapalnik", Zawilec", „66"` | „Zapalnik", **„**Zawilec", „66" — brakuje otwierającego cudzysłowu przed „Zawilec" |
 
 ![Obwód](screenshoots/obwod.png)
 ![Cudzysłów](screenshoots/cudzysłów.png)
@@ -52,8 +51,8 @@ Podwójne „nie" w zdaniu: *„Oto historia jednostki, której nic nie nie wyma
 
 | Błąd | Powinno być |
 |------|-------------|
-| `w bliskim **sąsiedzkie** drogi Niedźwiada - Mała` |   `w bliskim **sąsiedztwie** drogi Niedźwiada – Mała` |
-| `z **kompani** „Pęka"` | `z **kompanii** „Pęka"` |
+| w bliskim **sąsiedzkie** drogi Niedźwiada - Mała |  w bliskim **sąsiedztwie** drogi Niedźwiada – Mała |
+| z **kompani** „Pęka"` | z **kompanii** „Pęka" |
 
 ![Sąsiedztwie](screenshoots/sąsiedzkie.png)
 ![Kompanii](screenshoots/kompani.png)
@@ -65,7 +64,7 @@ Podwójne „nie" w zdaniu: *„Oto historia jednostki, której nic nie nie wyma
 
 | Błąd | Powinno być |
 |------|-------------|
-| `pozasądowych sposobów rozpatrywania sporów (np. mediacja, **arbitra**)` | `(np. mediacja, **arbitraż**)` |
+| pozasądowych sposobów rozpatrywania sporów (np. mediacja, **arbitra**) | (np. mediacja, **arbitraż**) |
 
 ---
 ![Arbitraż](screenshoots/arbitra.png)
