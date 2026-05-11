@@ -1,0 +1,37 @@
+# Raport błędów UAT — ak1944.vercel.app
+
+Data testowania: 2026-05-11  
+Urządzenie: (412×915, mobile Chrome), iPhone (Safari, Chrome)
+Środowisko: https://ak1944.vercel.app/
+
+---
+
+## Znalezione błędy
+
+### 1. `/` — Kafelek kalendarza na stronie głównej wyświetla błędną datę
+
+![Kalendarz — błędna data](screenshoots/kalendarz-bledna-data.png)
+
+| Pole | Wartość wyświetlona | Oczekiwana wartość |
+|------|--------------------|--------------------|
+| Dzień | `4` | `11` |
+| Imieniny | `Florian, Monika, Damian` | imieniny z dnia 11 maja |
+
+Kafelek kalendarza w sekcji Aktualności wyświetla datę **4 maja** (poniedziałek) zamiast bieżącej daty **11 maja 2026**. Ten sam błąd na środowisku produkcyjnym https://ak1944.pl/ tyle że tam kalendarz pokazuje 5 maja.
+
+
+### 2. `/strona-ktora-nie-istnieje` — Brak własnej strony 404
+
+| Aktualny stan | Oczekiwany stan |
+|---------------|-----------------|
+| Domyślna strona Next.js — biała, po angielsku: „This page could not be found." | Brandowana strona 404 z nagłówkiem, nawigacją i linkiem powrotu |
+
+![Strona 404 — domyślna Next.js](screenshoots/404-brak-strony.png)
+
+![Figma 404](screenshoots/Figma-404.png)
+
+
+---
+
+
+
