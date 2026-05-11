@@ -40,8 +40,20 @@ Kafelek kalendarza w sekcji Aktualności wyświetla datę **4 maja** (poniedzia�
 ---
 ### 4. `/historia` timeline 
 Inna kolejność timeline w figma i na stronie
-[FigmaVsApp](screenshoots/timeline.png) 
+![FigmaVsApp](screenshoots/timeline.png) 
 
 
 ---
-### 5.
+### 5. `/szlak-partyzancki/rajdy/zapisz-sie-na-rajd` błąd 404
+
+Po uzupełnieniu formularza zapisu na rajd dostaje 404
+![RajdForm](screenshoots/form_not_found.png) 
+
+
+---
+### 6. `/wolontariusze/zostan-wolontariuszem` błąd 404
+![RajdForm](screenshoots/wolontariat-form.png) 
+
+
+---
+### 7.
