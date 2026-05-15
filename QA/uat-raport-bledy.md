@@ -38,8 +38,8 @@ Kafelek kalendarza w sekcji Aktualności wyświetla datę **4 maja** (poniedzia�
 
 
 ---
-### 4. `/historia` timeline 
-Inna kolejność timeline w figma i na stronie
+### ~~4. `/historia` timeline~~ Tak było ustalone z Maciejem
+~~Inna kolejność timeline w figma i na stronie~~
 ![FigmaVsApp](screenshoots/timeline.png) 
 
 
