@@ -90,11 +90,11 @@ Na wszystkich rozdzielczościach mobilnych tytuł strony/sekcji, gdy łamie się
 ![Wolontariusze](screenshoots/Wolontariusze.png)
 ---
 
-## 8. Treść strony /partnerzy przycięta dla szerokości ≤344px
+## 8. Treść strony /partnerzy przycięta dla szerokości ≤360px
 `https://ak1944.vercel.app/partnerzy`
 
 Treść jest przycinana po obu stronach ekranu — brakuje paddingu/marginesu po lewej i prawej stronie kontenera. 
-Problem nie występuje od 344px wzwyż.
+Problem nie występuje od 360px wzwyż.
 
 Z pierwszego spotkania mam zapisane że minimalna wspierana to 320px
 
